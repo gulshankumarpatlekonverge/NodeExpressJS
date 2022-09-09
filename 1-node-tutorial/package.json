@@ -1,0 +1,17 @@
+{
+  "name": "1-node-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon npm-intro.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^1.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
