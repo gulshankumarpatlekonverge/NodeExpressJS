@@ -1,7 +1,19 @@
 # NodeExpressJS
 NodeExpressJS Course
 
+    1. HTTP
+    2. Express
+    3. API VS SSR 
 
+        API
+            - API - JSON
+            - Send Data
+            - RES.JSON()
+
+        SSR
+            - SSR - Template
+            - Send Template
+            - RES.RENDER()
 
 # Important Links:
 
@@ -22,5 +34,7 @@ NodeExpressJS Course
     MIME Type Docs: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
 
     Express JS Docs: https://expressjs.com/
+
+    HN(Hacker News) Algolia Search's API: https://hn.algolia.com/api
 
     
