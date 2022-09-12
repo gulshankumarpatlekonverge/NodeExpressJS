@@ -1,6 +1,14 @@
 # NodeExpressJS
 NodeExpressJS Course
 
+# Basics
+    1. Node
+    2. Node Modules and Path
+    3. HTTP and NPM(NODE PACKAGE MANAGER)
+    4. Event Loop
+    5. Streams
+    6. Event Emitter
+# Advanced
     1. HTTP
     2. Express
     3. API VS SSR 
@@ -14,6 +22,13 @@ NodeExpressJS Course
             - SSR - Template
             - Send Template
             - RES.RENDER()
+    4. JSON
+    5. Params/Query String
+    6. MiddleWare
+    7. Methods: GET/POST/PUT/DELETE
+    8. Postman
+    9. Express Routes
+    10. Express Routes Controller
 
 # Important Links:
 
